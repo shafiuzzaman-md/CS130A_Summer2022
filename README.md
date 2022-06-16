@@ -6,30 +6,98 @@ Lecture Time: 2pm-2:50pm, TWR, 387 1011
 
 Office hour: 4:00pm-5:00pm, Fri, Zoom: https://ucsb.zoom.us/j/4512414633
 
-Slack: https://join.slack.com/t/slack-bqf3594/shared_invite/zt-161uioa1i-uQFsfotbR6Hsv1yy~z7dqw
+Piazza: https://piazza.com/configure-classes/summer2022/cs130a
+
+
+## Quick References
+
+- Teaching Assistant: TBA
+- All course-related communication will be through piazza.
+- Submit your homework through gradescope (you will be added when class starts).  
+- Programming assignments will be on kattis. Create an account in kattis and your name on kattis should match with your name provided in Gold. 
+- Reading assignments will be in Data Structure Essentials with C++ and Algorithm Design and Applications from zybooks. Manage a merged subscription of these two books. 
+
+## Course description
+The study of data structures and their applications. Correctness proofs and techniques for the design of correct programs. Graph traversal techniques and their applications. Searching. Hashing and balanced trees. Analysis of sorting algorithms.
+
+## Learning Objectives
+### 1. Compare the structures, usages, strengths, and weaknesses of different data structures
+Students will compare different data structures such as stack, queue, hashtables, trees, graphs,  and heaps, and their performances in different scenarios. There will be multiple Homework focusing on this objective.
+
+### 2. Choose the appropriate data structures and algorithms to solve a given problem
+Students will demonstrate their problem-solving skills by formulating a problem using fundamental data structures and algorithms. They may need to modify the known data structures and the algorithms or design new ones to solve a given problem programmatically. Programming assignments will be prepared to achieve this objective. 
+
+### 3. Develop correct solutions to a problem and reason about the correctness
+Students will infer the solution from the problem statement, use the correct combination of data structures and algorithms, and most importantly verify the correctness of their solutions with logical explanations. Midterms and finals will be designed to assess this objective. 
+
+### 4. Evaluate the efficiency of the algorithms 
+Students will extract the complexity of the algorithms and deduce them into best-case, average-case, and worst-case running times. Thus they will be able to infer the complexity of their own algorithms. Midterms and finals will be designed to assess this objective. 
+
+### 5. Identify the loopholes in the implementation of an algorithm and optimize those to develop an efficient one
+Students will make their programming assignments accepted by the auto graders. Programming auto graders may not accept a solution until it achieves a certain optimization level. Therefore, students will identify the complex part of their implementations and optimize their source codes to ensure better performance.
+
+## Textbook
+- Data Structure Essentials with C++ from zybooks
+- Algorithm Design and Applications from  zybooks
+We will be using a merge of these two textbooks from zybooks for reading assignments. 
+
+## Class Policy
+- After each reading assignment, submit the online quizzes included in zyBooks within the due date. The due dates are added in the zybooks.
+ 
+- For homework and programming assignments, please submit your solution in Gradescope.  No late submissions are accepted (Due at 11:00 PM). With very few exceptions [e.g. documented medical emergency], no personal extensions/exceptions will be given.
+ 
+- You may discuss homework with your classmates, but please write down your own solution and acknowledge your collaborators. You must understand and be able to explain every single line that you hand in. Not being able to explain handed in work counts as cheating. 
+ 
+- For homework problems and programming assignments you may not consult anyone other than fellow students, course instructors, or TA's regarding anything pertaining to particular homework problems. You are allowed to ask about general topics (greedy algorithms, solving recurrences) but nothing related to a particular problem (how do I solve *this* recurrence, how do I analyze *this* algorithm, etc). Of course, there are grey zones. Err on the side of caution.
+ 
+- The policy above also applies to searching the internet and asking questions on forums. 
+ 
+- Do not post solutions to homework problems online. You may post your programs for programming assignments online, but do not post any explanations/analyses.
+
+## Grade Composition
+15% zyBooks Reading Assignments
+20% Homeworks (HW) (2 Homeworks counting 10% each)
+20% Programming Assignments* (PA) (2 Assignments counting 10% each)
+15% Midterm Exam
+30% Final Exam
+
+* Programming assignments will be comprised of multiple problems and students will be graded with the problem he receives the highest score. 
+
+## Course Schedule
 
 
 | Date  | Topic                                         | Slides | Read | Out | Due |
 |-------|-----------------------------------------------|--------|------|-----|-----|
-| 3/28  | Introduction                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
-| 3/30  | Solver-Aided Programming I (Rosette)          |  [lec2](lectures/lecture2.pdf)      |  R1    |  [HW1](hw1/HW1.md)   |     |
-| 4/4  | Solver-Aided Programming II (Neo)             |  [lec3](lectures/lecture3.pdf)      |  R2    |     |     |
-| 4/6  | SAT Solving Basics                            |  [lec4](lectures/lecture4.pdf)     |      |     | R1    |
-| 4/11 | A Modern SAT Solver                           |  [lec5](lectures/lecture5.pdf)      |      |   [HW2](hw2/HW2.md)  |   HW1  |
-| 4/13 | Applications of SAT                           |  [lec6](lectures/lecture6.pdf)      |  R3    |     |  R2   |
-| 4/18 | SAT Modulo Theories                           |  [lec7](lectures/lecture7.pdf)      |      |     |  HW2   |
-| 4/20 | Combining Theories              | [lec8](lectures/lecture8.pdf)        |      |    |  R3   |
-| 4/25 | The DPLL(T) Framework                             |  [lec9](lectures/lecture9.pdf)       |      |     |     |
-| 4/27 | The DPLL(T) Framework II                       |  [lec10]       |  R4    |     |  Proposal (2 pages)   |
-| 5/2  | Reasoning about Programs using Hoare logic I  | [lec11](lectures/lecture10.pdf)        |      |     |     |
-| 5/4  | Reasoning about Programs using Hoare logic II|    [lec12](lectures/lecture11.pdf)    |      |     |     |
-| 5/9  | Zero-knowledge Proofs in a nutshell (Brian) |   [lec](https://tinyurl.com/yu6v655m)     |      |     |     |
-| 5/11 | Formal Verification for Zero-knowledge Proofs using Ecne (Franklyn)                     |     [lec](https://tinyurl.com/yseccv6x)    |       |     |   R4 |
-| 5/16 | Symbolic Execution               |   [lec13](lectures/lecture13.pdf)      |      |  [HW3](hw3/HW3.md)   |     |
-| 5/18 | Attack Synthesis for Blockchain Security        |         |      |     |    |
-| 5/23 | Invairant Generation with RL  |         |      |     |     |
-| 5/25  | Course Summary                                 |        |      |     |    |
-| 6/1  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 6/21  | Introduction                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
+| 6/22  | Solver-Aided Programming I (Rosette)          |  [lec2](lectures/lecture2.pdf)      |  R1    |  [HW1](hw1/HW1.md)   |     |
+| 6/23  | Solver-Aided Programming II (Neo)             |  [lec3](lectures/lecture3.pdf)      |  R2    |     |     |
+| 6/28  | SAT Solving Basics                            |  [lec4](lectures/lecture4.pdf)     |      |     | R1    |
+| 6/29 | A Modern SAT Solver                           |  [lec5](lectures/lecture5.pdf)      |      |   [HW2](hw2/HW2.md)  |   HW1  |
+| 6/30 | Applications of SAT                           |  [lec6](lectures/lecture6.pdf)      |  R3    |     |  R2   |
+| 7/5 | SAT Modulo Theories                           |  [lec7](lectures/lecture7.pdf)      |      |     |  HW2   |
+| 7/6 | Combining Theories              | [lec8](lectures/lecture8.pdf)        |      |    |  R3   |
+| 7/7 | The DPLL(T) Framework                             |  [lec9](lectures/lecture9.pdf)       |      |     |     |
+| 7/12 | The DPLL(T) Framework II                       |  [lec10]       |  R4    |     |  Proposal (2 pages)   |
+| 7/13  | Reasoning about Programs using Hoare logic I  | [lec11](lectures/lecture10.pdf)        |      |     |     |
+| 7/19  | Reasoning about Programs using Hoare logic II|    [lec12](lectures/lecture11.pdf)    |      |     |     |
+| 7/20 | Zero-knowledge Proofs in a nutshell (Brian) |   [lec](https://tinyurl.com/yu6v655m)     |      |     |     |
+| 7/21 | Formal Verification for Zero-knowledge Proofs using Ecne (Franklyn)                     |     [lec](https://tinyurl.com/yseccv6x)    |       |     |   R4 |
+| 7/26 | Symbolic Execution               |   [lec13](lectures/lecture13.pdf)      |      |  [HW3](hw3/HW3.md)   |     |
+| 7/27 | Attack Synthesis for Blockchain Security        |         |      |     |    |
+| 7/28 | Invairant Generation with RL  |         |      |     |     |
+| 8/2  | Course Summary                                 |        |      |     |    |
+| 8/3  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/4  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/9  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/10  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/11  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/16  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/17 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/18 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/23 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/24 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/25 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+
 
 
 # Grading (No curving)
