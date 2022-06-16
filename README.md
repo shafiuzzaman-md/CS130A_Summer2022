@@ -69,34 +69,34 @@ We will be using a merge of these two textbooks from zybooks for reading assignm
 | Date  | Topic                                         | Slides | Read | Out | Due |
 |-------|-----------------------------------------------|--------|------|-----|-----|
 | 6/21  | Introduction                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
-| 6/22  | Solver-Aided Programming I (Rosette)          |  [lec2](lectures/lecture2.pdf)      |  R1    |  [HW1](hw1/HW1.md)   |     |
-| 6/23  | Solver-Aided Programming II (Neo)             |  [lec3](lectures/lecture3.pdf)      |  R2    |     |     |
-| 6/28  | SAT Solving Basics                            |  [lec4](lectures/lecture4.pdf)     |      |     | R1    |
-| 6/29 | A Modern SAT Solver                           |  [lec5](lectures/lecture5.pdf)      |      |   [HW2](hw2/HW2.md)  |   HW1  |
-| 6/30 | Applications of SAT                           |  [lec6](lectures/lecture6.pdf)      |  R3    |     |  R2   |
-| 7/5 | SAT Modulo Theories                           |  [lec7](lectures/lecture7.pdf)      |      |     |  HW2   |
-| 7/6 | Combining Theories              | [lec8](lectures/lecture8.pdf)        |      |    |  R3   |
-| 7/7 | The DPLL(T) Framework                             |  [lec9](lectures/lecture9.pdf)       |      |     |     |
-| 7/12 | The DPLL(T) Framework II                       |  [lec10]       |  R4    |     |  Proposal (2 pages)   |
-| 7/13  | Reasoning about Programs using Hoare logic I  | [lec11](lectures/lecture10.pdf)        |      |     |     |
-| 7/19  | Reasoning about Programs using Hoare logic II|    [lec12](lectures/lecture11.pdf)    |      |     |     |
-| 7/20 | Zero-knowledge Proofs in a nutshell (Brian) |   [lec](https://tinyurl.com/yu6v655m)     |      |     |     |
-| 7/21 | Formal Verification for Zero-knowledge Proofs using Ecne (Franklyn)                     |     [lec](https://tinyurl.com/yseccv6x)    |       |     |   R4 |
-| 7/26 | Symbolic Execution               |   [lec13](lectures/lecture13.pdf)      |      |  [HW3](hw3/HW3.md)   |     |
-| 7/27 | Attack Synthesis for Blockchain Security        |         |      |     |    |
-| 7/28 | Invairant Generation with RL  |         |      |     |     |
-| 8/2  | Course Summary                                 |        |      |     |    |
-| 8/3  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/4  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/9  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/10  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/11  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/16  | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/17 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/18 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/23 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/24 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/25 | Virtual Poster Session                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 6/22  | Algorithm efficiency, Constant time operations        |  [lec2](lectures/lecture2.pdf)      |  R1    |  [HW1](hw1/HW1.md)   |     |
+| 6/23  | Growth of functions and complexity, O-notation             |  [lec3](lectures/lecture3.pdf)      |  R2    |     |     |
+| 6/28  | Graph Introduction & Representation                           |  [lec4](lectures/lecture4.pdf)     |      |     | R1    |
+| 6/29 | Breadth-first search                          |  [lec5](lectures/lecture5.pdf)      |      |   [HW2](hw2/HW2.md)  |   HW1  
+| 6/30 | Depth-first search                            |  [lec6](lectures/lecture6.pdf)      |  R3    |     |  R2   |
+| 7/5 | Directed graphs, Topological sort                           |  [lec7](lectures/lecture7.pdf)      |      |     |  HW2   |
+| 7/6 | Lists, Queues              | [lec8](lectures/lecture8.pdf)        |      |    |  R3   |
+| 7/7 | Hash tables, Hash functions                             |  [lec9](lectures/lecture9.pdf)       |      |     |     |
+| 7/12 | Analysis of Hashing                      |  [lec10]       |  R4    |     |  Proposal (2 pages)   |
+| 7/13  | Universal Hashing, Perfect Hashing  | [lec11](lectures/lecture10.pdf)        |      |     |     |
+| 7/19  | Heaps, Heaps using arrays |    [lec12](lectures/lecture11.pdf)    |      |     |     |
+| 7/20 | Heapsort |   [lec](https://tinyurl.com/yu6v655m)     |      |     |     |
+| 7/21 | Priority queue                   |     [lec](https://tinyurl.com/yseccv6x)    |       |     |   R4 |
+| 7/26 | MIDTERM               |   [lec13](lectures/lecture13.pdf)      |      |  [HW3](hw3/HW3.md)   |     |
+| 7/27 | Weighted Graphs, Algorithm: Dijkstra's shortest path       |         |      |     |    |
+| 7/28 | Kruskal algorithm  |         |      |     |     |
+| 8/2  | Prim's algorithm                                 |        |      |     |    |
+| 8/3  | Union Find Data Structure                                  |        |      |     |  Final Report (8 pages), HW3  |
+| 8/4  | Union Find Data Structure                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/9  | Amortized Analysis I                                |        |      |     |  Final Report (8 pages), HW3  |
+| 8/10  | Amortized Analysis II                                  |        |      |     |  Final Report (8 pages), HW3  |
+| 8/11  | Binary search trees I                                  |        |      |     |  Final Report (8 pages), HW3  |
+| 8/16  | Binary search trees II                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/17 | Balanced Search Trees                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/18 | AVL rotations                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/23 | AVL insertions, AVL removals                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/24 | Problem Solving                                 |        |      |     |  Final Report (8 pages), HW3  |
+| 8/25 | Final                                |        |      |     |  Final Report (8 pages), HW3  |
 
 
 
