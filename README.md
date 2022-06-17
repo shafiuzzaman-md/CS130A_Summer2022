@@ -1,4 +1,4 @@
-# CS130A Data Structures and Algorithms (Summer 2022)
+# CS130A: Data Structures and Algorithms (Summer 2022)
 
 Instructor : Md Shafiuzzaman (mdshafiuzzaman@ucsb.edu), Please call me Shafi. 
 
@@ -68,35 +68,35 @@ We will be using a merge of these two textbooks from zybooks for reading assignm
 
 | Date  | Topic                                         | Out | Due |
 |-------|-----------------------------------------------|-----|-----|
-| 6/21  | Introduction                                  |     |     |
-| 6/22  | Algorithm efficiency                          |  [HW1](hw1/HW1.md)   |     |
-| 6/23  | Growth of functions and complexity, O-notation               |     |     |
-| 6/28  | Graph introduction & representation                           |     | R1    |
-| 6/29 | Breadth-first search                            |   [HW2](hw2/HW2.md)  |   HW1  
-| 6/30 | Depth-first search                              |     |  R2   |
-| 7/5 | Directed graphs, Topological sort                           |  HW2   |
-| 7/6 | Hash tables, Hashmaps                |    |  R3   |
-| 7/7 |  Hash functions                               |     |     |
-| 7/12 | Analysis of Hashing                      |     |  Proposal (2 pages)   |
-| 7/13  | Universal Hashing, Perfect Hashing       |     |     |
-| 7/19  | Heaps, Heaps using arrays      |     |     |
-| 7/20 | Heapsort     |     |     |
-| 7/21 | Priority queue                    |     |   R4 |
-| 7/26 | MIDTERM                    |  [HW3](hw3/HW3.md)   |     |
-| 7/27 | Weighted Graphs, Algorithm: Dijkstra's shortest path         |     |    |
-| 7/28 | Kruskal algorithm |     |     |
-| 8/2  | Prim's algorithm                                   |     |    |
-| 8/3  | Union Find Data Structure I                               |     |    |
-| 8/4  | Union Find Data Structure II                                    |     |    |
-| 8/9  | Amortized Analysis I                                   |     |   |
-| 8/10  | Amortized Analysis II                                    |     |   |
-| 8/11  | Binary search trees I                                    |     |   |
-| 8/16  | Binary search trees II                                  |     |   |
-| 8/17 | Balanced Search Trees                                    |     |    |
-| 8/18 | AVL rotations                                    |     |    |
-| 8/23 | AVL insertions, AVL removals                         |     |    |
-| 8/24 | Problem Solving                             |     |    |
-| 8/25 | Final                                   |     |    |
+| 6/21  | Introduction                                  | RA1 |     |
+| 6/22  | Algorithm efficiency                          |     |     |
+| 6/23  | Growth of functions and complexity, O-notation|     |     |
+| 6/28  | Graph introduction & representation           |     | RA1 |
+| 6/29 | Breadth-first search                           | RA2 |     |  
+| 6/30 | Depth-first search                             |     |     |
+| 7/5 | Directed graphs, Topological sort               |     |     |
+| 7/6 | Hash tables, Hashmaps                           |     | RA2 |
+| 7/7 |  Hash functions                                 | RA3 |     |
+| 7/12 | Analysis of Hashing                            |     |     |
+| 7/13  | Universal Hashing, Perfect Hashing            |     |     |
+| 7/19  | Heaps, Heaps using arrays                     |     |     |
+| 7/20 | Heapsort                                       |     | RA3 |
+| 7/21 | Priority queue                                 | RA4 |     |
+| 7/26 | MIDTERM                                        |     |     |
+| 7/27 | Weighted Graphs, Algorithm: Dijkstra's shortest path |     | RA4 |
+| 7/28 | Kruskal algorithm                              | RA5 |     |
+| 8/2  | Prim's algorithm                               |     |     |
+| 8/3  | Union Find Data Structure I                    |     | RA5 |
+| 8/4  | Union Find Data Structure II                   | RA6 |     |
+| 8/9  | Amortized Analysis I                           |     |     |
+| 8/10  | Amortized Analysis II                         |     | RA6 |
+| 8/11  | Binary search trees I                         | RA7 |     |
+| 8/16  | Binary search trees II                        |     |     |
+| 8/17 | Balanced Search Trees                          |     |     |
+| 8/18 | AVL rotations                                  |     |     |
+| 8/23 | AVL insertions, AVL removals                   |     |     |
+| 8/24 | Problem Solving                                |     | RA7 |
+| 8/25 | Final                                          |     |    |
 
 
 
