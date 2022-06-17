@@ -75,27 +75,27 @@ We will be using a merge of these two textbooks from zybooks for reading assignm
 **Week-2**|-----------------------------------------------|-----|-----|
 | 6/28  | Graph introduction & representation           |  RA1  |  |
 | 6/29 | Breadth-first search                           |  |     |  
-| 6/30 | Depth-first search                             |  |  |
+| 6/30 | Depth-first search                             |HW1 |  |
 **Week-3**|-----------------------------------------------|-----|-----|
 | 7/5 | Directed graphs, Topological sort               |  RA2   | RA1    |
-| 7/6 | Hash tables, Hashmaps                           |     |  |
-| 7/7 |  Hash functions                                 |  |     |
+| 7/6 | Hash tables, Hashmaps                           |    |  |
+| 7/7 |  Hash functions                                 | PA1  |     |
 **Week-4**|-----------------------------------------------|-----|-----|
 | 7/12 | Analysis of Hashing                            |  RA3   | RA2 |
 | 7/13  | Universal Hashing, Perfect Hashing            |  |     |
-| 7/14  | Heaps, Heaps using arrays                     |  |     |
+| 7/14  | Heaps, Heaps using arrays                     |  |  HW1    | 
 **Week-5**|-----------------------------------------------|-----|-----|
 | 7/19  | Priority queue                                | RA4     | RA3    |
-| 7/20 | Heapsort                                       |     |  |
-| 7/21 | PQ-sort, selection-sort, and insertion-sort    | |     |
+| 7/20 | Heapsort                                       |      | |
+| 7/21 | PQ-sort, selection-sort, and insertion-sort    | HW2  | PA1    |
 **Week-6**|-----------------------------------------------|-----|-----|
 | 7/26 | MIDTERM                                        |     |     |
 | 7/27 | Weighted Graphs, Algorithm: Dijkstra's shortest path |     ||
-| 7/28 | Kruskal algorithm                              | |     |
+| 7/28 | Kruskal algorithm                              | |    |
 **Week-7**|-----------------------------------------------|-----|-----|
 | 8/2  | Prim's algorithm                               |  RA5    |   RA4    |
 | 8/3  | Union Find Data Structure I                    |     |  |
-| 8/4  | Union Find Data Structure II                   | |     |
+| 8/4  | Union Find Data Structure II                   |  PA2  |HW2|
 **Week-8**|-----------------------------------------------|-----|-----|
 | 8/9  | Amortized Analysis I                           |  RA6    |  RA5   |
 | 8/10  | Amortized Analysis II                         |     |  |
@@ -103,7 +103,7 @@ We will be using a merge of these two textbooks from zybooks for reading assignm
 **Week-9**|-----------------------------------------------|-----|-----|
 | 8/16  | Binary search trees II                        | RA7    |  RA6   |
 | 8/17 | Balanced Search Trees                          |     |     |
-| 8/18 | AVL rotations                                  |     |     |
+| 8/18 | AVL rotations                                  |     |  PA2   |
 **Week-10**|-----------------------------------------------|-----|-----|
 | 8/23 | AVL insertions, AVL removals                   |     |  RA7   |
 | 8/24 | Problem Solving                                |     |     |
