@@ -2,7 +2,7 @@
 
 Instructor : Md Shafiuzzaman (mdshafiuzzaman@ucsb.edu), Please call me Shafi. 
 
-Lecture Time: 2pm-2:50pm, TWR, 387 1011 
+Lecture Time: 2 pm-2:50 pm, TWR, 387 1011 
 
 Office hour: 4:00pm-5:00pm, Fri, Zoom: https://ucsb.zoom.us/j/4512414633
 
@@ -15,7 +15,7 @@ Piazza: https://piazza.com/configure-classes/summer2022/cs130a
 - All course-related communication will be through piazza.
 - Submit your homework through gradescope (you will be added when class starts).  
 - Programming assignments will be on kattis. Create an account in kattis and your name on kattis should match with your name provided in Gold. 
-- Reading assignments will be in Data Structure Essentials with C++ and Algorithm Design and Applications from zybooks. Manage a merged subscription of these two books. 
+- Reading assignments will be in Algorithm Design and Applications from zybooks. Manage a subscription for this book. 
 
 ## Course description
 The study of data structures and their applications. Correctness proofs and techniques for the design of correct programs. Graph traversal techniques and their applications. Searching. Hashing and balanced trees. Analysis of sorting algorithms.
