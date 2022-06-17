@@ -20,7 +20,7 @@ Piazza: https://piazza.com/configure-classes/summer2022/cs130a
 ## Course description
 The study of data structures and their applications. Correctness proofs and techniques for the design of correct programs. Graph traversal techniques and their applications. Searching. Hashing and balanced trees. Analysis of sorting algorithms.
 
-## Learning Objectives:(LO.md) 
+## Learning Objectives:
 ### 1. Compare the structures, usages, strengths, and weaknesses of different data structures
 Students will compare different data structures such as stack, queue, hashtables, trees, graphs,  and heaps, and their performances in different scenarios. There will be multiple Homework focusing on this objective.
 
@@ -37,31 +37,12 @@ Students will extract the complexity of the algorithms and deduce them into best
 Students will make their programming assignments accepted by the auto graders. Programming auto graders may not accept a solution until it achieves a certain optimization level. Therefore, students will identify the complex part of their implementations and optimize their source codes to ensure better performance.
 
 ## Textbook
-- Data Structure Essentials with C++ from zybooks
 - Algorithm Design and Applications from  zybooks
-We will be using a merge of these two textbooks from zybooks for reading assignments. 
 
-## Class Policy
-- After each reading assignment, submit the online quizzes included in zyBooks within the due date. The due dates are added in the zybooks.
- 
-- For homework and programming assignments, please submit your solution in Gradescope.  No late submissions are accepted (Due at 11:00 PM). With very few exceptions [e.g. documented medical emergency], no personal extensions/exceptions will be given.
- 
-- You may discuss homework with your classmates, but please write down your own solution and acknowledge your collaborators. You must understand and be able to explain every single line that you hand in. Not being able to explain handed in work counts as cheating. 
- 
-- For homework problems and programming assignments you may not consult anyone other than fellow students, course instructors, or TA's regarding anything pertaining to particular homework problems. You are allowed to ask about general topics (greedy algorithms, solving recurrences) but nothing related to a particular problem (how do I solve *this* recurrence, how do I analyze *this* algorithm, etc). Of course, there are grey zones. Err on the side of caution.
- 
-- The policy above also applies to searching the internet and asking questions on forums. 
- 
-- Do not post solutions to homework problems online. You may post your programs for programming assignments online, but do not post any explanations/analyses.
+## How to succeed in this course 
+It is important to understand the implementation scope of the algorithms rather than simply grabbing those.  To this end, your success will largely depend on you completing homeworks on time. Because homework problems will also guide you for midterm and final. We have a significant amount of availability to help you work through problems, so please take advantage of our office hours.  Working through problems together is a lot of fun, so you should find study partners to work with this summer as well! Attending lectures and discussion sections, however, will be important for you to acquire basic knowledge to succeed with assignments.  
 
-## Grade Composition
-15% zyBooks Reading Assignments
-20% Homeworks (HW) (2 Homeworks counting 10% each)
-20% Programming Assignments* (PA) (2 Assignments counting 10% each)
-15% Midterm Exam
-30% Final Exam
 
-* Programming assignments will be comprised of multiple problems and students will be graded with the problem he receives the highest score. 
 
 ## Course Schedule
 
@@ -110,92 +91,39 @@ We will be using a merge of these two textbooks from zybooks for reading assignm
 | 8/25 | Final                                          |     |    |
 
 
+## Grade Composition
 
-# Grading (No curving)
+* Programming assignments will be comprised of multiple problems and students will be graded with the problem he receives the highest score. 
 
-1. Programming assignments: 40%
-    1. 4 programming assignments, 10% each
+1. zyBooks Reading Assignments (RA): 15% 
 
-2. Paper reviews: 20%
-    1. 4 papers, 5% each
-        
-3. Final project: 40%
-    1. Team formed by deadline: 5%
-    2. 1-page project proposal: 10%
-    3. Project presentation (Poster): 10%
-    4. Executable code: 5%
-    5. Final report: 10%
+2. Homeworks (HW): 20%
+    1. HW with best score, 15% 
+    2. Others, 5%
 
-| Letter | Percentage |
-|--------|------------|
-| A+     | 95–100%    |
-| A      | 90–94%     |
-| A-     | 85–89%     |
-| B+     | 80–84%     |
-| B      | 75–79%     |
-| B-     | 70–74%     |
-| C+     | 65–69%     |
-| C      | 60–64%     |
-| F      | <60%       |
+3. Programming Assignments (PA): 20%
+    - 2 Assignments counting 10% each
+    - Each PA will be comprised of multiple problems and students will be graded with the problem he receives the highest score.        
+3. Midterm Exam: 20%
+4. Final Exam: 25%
 
-### Submission
-1. Please submit your homework to gradescope: https://www.gradescope.com
-2. All paper reviews should be in PDF.
+Grade ranges (using mathematical interval notation): A+: [97,100]; A: [93,97); A-: [90,93); B+: [87,90); B: [83,87); B-: [80,83); C+: [77,80); C: [73,77); C-: [70,77); D+: [67,70); D: [63,67); D-: [60,63); F: [0,60).  
 
-# Homework
-
-1. [Homework1](hw1/HW1.md)
-2. [Homework2](hw2/HW2.md)
-3. [Homework3](hw3/HW3.md)
-
-# Reading assignments
-1. A Lightweight Symbolic Virtual Machine for Solver-Aided Host Languages. Emina Torlak and Rastislav Bodik. PLDI'14.
-2. Program synthesis using conflict-driven learning. Yu Feng, Ruben Martins, Osbert Bastani, and Isil Dillig.  PLDI'18. **Distinguished Paper Award** 
-3. Scaling symbolic evaluation for automated verification of systems code with Serval. Luke Nelson, James Bornholt, Ronghui Gu, Andrew Baumann, Emina Torlak, and Xi Wang. SOSP'2019. **Best Paper Award**
-4. C. A. R. Hoare. An axiomatic basis for computer programming. Communications of the ACM, vol. 12, no. 10. 1969. ACM DL. **Turing Award**
+We will round final raw scores to the nearest whole number to compute your final grade.  Thus, if you score an 89.7 in the class, you’ll get an A-.  If you score an 82.48, you’ll get a B-.  Notice that this will never adversely affect your grade.  For example, if you score a 77.3, your raw score will be rounded to 77, but both 77.3 and 77 are a C+ so your final grade is unaffected. 
 
 
-Tips for writing paper [reviews](REVIEW.md).
-
-Tips for writing a project [proposal](PROPOSAL.md).
-
-# References
-
-- Rondon, Patrick M., Ming Kawaguci, and Ranjit Jhala. "Liquid types." PLDI'2008.
-
-- Ali Sinan Köksal, Yewen Pu, Saurabh Srivastava, Rastislav Bodík, Jasmin Fisher, Nir Piterman. Synthesis of biological models from mutation experiments. Principles of Programming Languages (POPL). 2013. ACM DL
-
-- Srivastava, Saurabh, Sumit Gulwani, and Jeffrey S. Foster. From program verification to program synthesis. POPL 2010.
-
-- Jha, Susmit, et al. Oracle-guided component-based program synthesis. ICSE 2010.
-
-- Gulwani, Sumit. Automating string processing in spreadsheets using input-output examples. POPL 2011.
-
-- Phothilimthana, Phitchaya Mangpo, et al. "Scaling up superoptimization." ASPLOS 2016.
-
-- Chandra, Kartik, and Rastislav Bodik. Bonsai: synthesis-based reasoning for type systems. POPL 2017.
-
-- Bornholt, James, et al. Optimizing synthesis with metasketches. POPL 2016.
-
-- Yaghmazadeh, Navid, et al. SQLizer: query synthesis from natural language. OOPSLA 2017. **Distinguished Paper Award**
-
-- Deepcoder: Learning to write programs. Matej, et al. ICLR'16.
-
-- Helgi Sigurbjarnarson, James Bornholt, Emina Torlak, and Xi Wang. Push-Button Verification of File Systems via Crash Refinement. OSDI 2016. **Best Paper Award**
-
-- Shaon Barman, Sarah E. Chasins, Rastislav Bodik, Sumit Gulwani. Ringer: web automation by demonstration. OOPSLA 2016.
-
-- Luke Nelson, Jacob Van Geffen, Emina Torlak, and Xi Wang. Specification and verification in the field: Applying formal methods to BPF just-in-time compilers in the Linux kernel. OSDI 2020.
-
-- Chenming Wu, Haisen Zhao, Chandrakana Nandi, Jeff Lipton, Zachary Tatlock, Adriana Schulz. Carpentry Compiler. SIGGRAPH ASIA 2019.
-
-- Permenev, Anton, et al. Verx: Safety verification of smart contracts. 2020 IEEE Symposium on Security and Privacy 2020.
-
-- Chenglong Wang, Yu Feng, Ras Bodik, Alvin Cheung, Isil Dillig. Visualization by Example. POPL'2020.
-
-- Beckett, Ryan, et al. Network configuration synthesis with abstract topologies. PLDI'2017.
-
-- Dai, Wang-Zhou, et al. Bridging machine learning and logical reasoning by abductive learning. NIPS'2019.
+## Class Policy
+- After each reading assignment, submit the online quizzes included in zyBooks within the due date. The due dates are added in the zybooks. You will get atleast one week to complete the reading assignemts. Reding assignments will be pretty easy and will not consume much of your times. Please complete it on time, we cannot provide you any extesion for this since it may affect your learning curve. 
+ 
+- For homework and programming assignments, please submit your solution in Gradescope.  No late submissions are accepted (Due at 11:00 PM) since we need to provide you feedback before midterm and final.
+ 
+- You may discuss homework with your classmates, but please write down your own solution and acknowledge your collaborators. You must understand and be able to explain every single line that you hand in. Not being able to explain handed in work counts as cheating. 
+ 
+- For homework problems and programming assignments you may not consult anyone other than fellow students, course instructors, or TA's regarding anything pertaining to particular homework problems. You are allowed to ask about general topics (greedy algorithms, solving recurrences) but nothing related to a particular problem (how do I solve *this* recurrence, how do I analyze *this* algorithm, etc). Of course, there are grey zones. Err on the side of caution.
+ 
+- The policy above also applies to searching the internet and asking questions on forums. 
+ 
+- Do not post solutions to homework problems online. You may post your programs for programming assignments online, but do not post any explanations/analyses.
 
 
 
@@ -209,6 +137,5 @@ Tips for writing a project [proposal](PROPOSAL.md).
    - Previous versions of the class.
    - leaving your code (for example in an online repository) visible to others, leading others to look at your solution.
    - receiving, providing, or soliciting assistance from unauthorized sources during a test.
-- Programming assignments are not intended to be grade-makers, but to prepare you for the tests, which are the grade-makers. Cheating on the programming assignment is not only unethical, but shows a fundamental misunderstanding of the purpose of these assignments.
-- Penalties: First time: a zero for the assignment; Second time: an “F” in the course.
+- Cheating on the programming assignment is not only unethical, but shows a fundamental misunderstanding of the purpose of these assignments.
 
