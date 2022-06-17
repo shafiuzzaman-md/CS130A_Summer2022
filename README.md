@@ -128,13 +128,37 @@ We will round final raw scores to the nearest whole number to compute your final
 
 
 ## Academic Integrity
-- Cheating WILL be taken seriously. It is not fair toward honest students to take cheating lightly, nor is it fair to the cheater to let him/her go on thinking that cheating is a reasonable alternative in life.
-- The following is not considered cheating:
-   - discussing broad ideas about programming assignments in groups, without being at a computer (with code-writing and debugging done individually, later).
-- The following is considered cheating:
-   - discussing programming assignments with someone who has already completed the problem, or looking at their completed solution.
-   - looking at anyone else’s solution
-   - leaving your code (for example in an online repository) visible to others, leading others to look at your solution.
-   - receiving, providing, or soliciting assistance from unauthorized sources during a test.
-- Cheating on the programming assignment is not only unethical, but shows a fundamental misunderstanding of the purpose of these assignments.
+
+All students are expected to understand and comply with university policies regarding academic integrity.  Please understand that we take academic integrity seriously.  Cheating, plagiarism, and other acts of academic dishonesty completely defeat the purpose of academia.  You are expected to present your own work when submitting assignments for grading and you are expected to not misuse academic sources.  You can view the university’s policy on student conduct at https://www.sa.ucsb.edu/regulations/student-conduct-code/student-conduct-code.
+
+
+
+You may:
+
+- Discuss broad ideas about programming assignments in groups, without being at a computer (with code-writing and debugging done individually, later).
+- Work with your peers on homework assignments, provided you write up your final full solution set on your own.
+- Ask the instructor or TAs questions and use their explanations to accomplish your assignments.
+- Check out course reserves or other textbooks for free at the library.
+
+
+You may not:
+- Collaborate with anyone in any way on reading assignments, midterm, and final.  
+- Discuss programming assignments with someone who has already completed the problem, or looking at their completed solution.
+- Leave your solutions or code (for example in an online repository) visible to others, leading others to look at your solution.
+- Post course materials to Chegg, Stackexchange, or other tutoring sites.
+
+What are the consequences of committing academic dishonesty of any kind?
+
+- For your first offense, you will receive a 0 on assignments which are completed by violating the student conduct code.  Further sanctions are decided by the Office of Student Conduct. 
+
+
+## Accommodations for Students with Disabilities
+Students with disabilities may request academic accommodations for exams online through the ​UCSB Disabled Students Program​. Please make requests for exam accommodations through the online system as early in the class as possible to ensure proper arrangement. https://dsp.sa.ucsb.edu/services/ 
+
+Please note that exam accommodations will only be granted after the DSP office receives your requests, processes it, approves it, and informs the teaching staff in writing. 
+
+## Syllabus Changes
+
+As we move through the course, some changes may be necessary to ensure a smoothly run class.  I reserve the right to alter the syllabus in a reasonable fashion, provided I give everyone at least 24 hours advance notice.   
+
 
