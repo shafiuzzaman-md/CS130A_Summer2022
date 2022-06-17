@@ -66,37 +66,37 @@ We will be using a merge of these two textbooks from zybooks for reading assignm
 ## Course Schedule
 
 
-| Date  | Topic                                         | Slides | Read | Out | Due |
-|-------|-----------------------------------------------|--------|------|-----|-----|
-| 6/21  | Introduction                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
-| 6/22  | Algorithm efficiency, Constant time operations        |  [lec2](lectures/lecture2.pdf)      |  R1    |  [HW1](hw1/HW1.md)   |     |
-| 6/23  | Growth of functions and complexity, O-notation             |  [lec3](lectures/lecture3.pdf)      |  R2    |     |     |
-| 6/28  | Graph Introduction & Representation                           |  [lec4](lectures/lecture4.pdf)     |      |     | R1    |
-| 6/29 | Breadth-first search                          |  [lec5](lectures/lecture5.pdf)      |      |   [HW2](hw2/HW2.md)  |   HW1  
-| 6/30 | Depth-first search                            |  [lec6](lectures/lecture6.pdf)      |  R3    |     |  R2   |
-| 7/5 | Directed graphs, Topological sort                           |  [lec7](lectures/lecture7.pdf)      |      |     |  HW2   |
-| 7/6 | Lists, Queues              | [lec8](lectures/lecture8.pdf)        |      |    |  R3   |
-| 7/7 | Hash tables, Hash functions                             |  [lec9](lectures/lecture9.pdf)       |      |     |     |
-| 7/12 | Analysis of Hashing                      |  [lec10]       |  R4    |     |  Proposal (2 pages)   |
-| 7/13  | Universal Hashing, Perfect Hashing  | [lec11](lectures/lecture10.pdf)        |      |     |     |
-| 7/19  | Heaps, Heaps using arrays |    [lec12](lectures/lecture11.pdf)    |      |     |     |
-| 7/20 | Heapsort |   [lec](https://tinyurl.com/yu6v655m)     |      |     |     |
-| 7/21 | Priority queue                   |     [lec](https://tinyurl.com/yseccv6x)    |       |     |   R4 |
-| 7/26 | MIDTERM               |   [lec13](lectures/lecture13.pdf)      |      |  [HW3](hw3/HW3.md)   |     |
-| 7/27 | Weighted Graphs, Algorithm: Dijkstra's shortest path       |         |      |     |    |
-| 7/28 | Kruskal algorithm  |         |      |     |     |
-| 8/2  | Prim's algorithm                                 |        |      |     |    |
-| 8/3  | Union Find Data Structure                                  |        |      |     |  Final Report (8 pages), HW3  |
-| 8/4  | Union Find Data Structure                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/9  | Amortized Analysis I                                |        |      |     |  Final Report (8 pages), HW3  |
-| 8/10  | Amortized Analysis II                                  |        |      |     |  Final Report (8 pages), HW3  |
-| 8/11  | Binary search trees I                                  |        |      |     |  Final Report (8 pages), HW3  |
-| 8/16  | Binary search trees II                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/17 | Balanced Search Trees                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/18 | AVL rotations                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/23 | AVL insertions, AVL removals                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/24 | Problem Solving                                 |        |      |     |  Final Report (8 pages), HW3  |
-| 8/25 | Final                                |        |      |     |  Final Report (8 pages), HW3  |
+| Date  | Topic                                         | Out | Due |
+|-------|-----------------------------------------------|-----|-----|
+| 6/21  | Introduction                                  |     |     |
+| 6/22  | Algorithm efficiency                          |  [HW1](hw1/HW1.md)   |     |
+| 6/23  | Growth of functions and complexity, O-notation               |     |     |
+| 6/28  | Graph introduction & representation                           |     | R1    |
+| 6/29 | Breadth-first search                            |   [HW2](hw2/HW2.md)  |   HW1  
+| 6/30 | Depth-first search                              |     |  R2   |
+| 7/5 | Directed graphs, Topological sort                           |  HW2   |
+| 7/6 | Hash tables, Hashmaps                |    |  R3   |
+| 7/7 |  Hash functions                               |     |     |
+| 7/12 | Analysis of Hashing                      |     |  Proposal (2 pages)   |
+| 7/13  | Universal Hashing, Perfect Hashing       |     |     |
+| 7/19  | Heaps, Heaps using arrays      |     |     |
+| 7/20 | Heapsort     |     |     |
+| 7/21 | Priority queue                    |     |   R4 |
+| 7/26 | MIDTERM                    |  [HW3](hw3/HW3.md)   |     |
+| 7/27 | Weighted Graphs, Algorithm: Dijkstra's shortest path         |     |    |
+| 7/28 | Kruskal algorithm |     |     |
+| 8/2  | Prim's algorithm                                   |     |    |
+| 8/3  | Union Find Data Structure I                               |     |    |
+| 8/4  | Union Find Data Structure II                                    |     |    |
+| 8/9  | Amortized Analysis I                                   |     |   |
+| 8/10  | Amortized Analysis II                                    |     |   |
+| 8/11  | Binary search trees I                                    |     |   |
+| 8/16  | Binary search trees II                                  |     |   |
+| 8/17 | Balanced Search Trees                                    |     |    |
+| 8/18 | AVL rotations                                    |     |    |
+| 8/23 | AVL insertions, AVL removals                         |     |    |
+| 8/24 | Problem Solving                             |     |    |
+| 8/25 | Final                                   |     |    |
 
 
 
