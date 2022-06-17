@@ -98,14 +98,16 @@ It is important to understand the implementation scope of the algorithms rather 
 1. zyBooks Reading Assignments (RA): 15% 
 
 2. Homeworks (HW): 20%
-    1. HW with best score, 15% 
-    2. Others, 5%
+    1. HW with best score, 12% 
+    2. Others, 8%
 
-3. Programming Assignments (PA): 20%
-    - 2 Assignments counting 10% each
-    - Each PA will be comprised of multiple problems and students will be graded with the problem he receives the highest score.        
+3. Programming Assignments (PA): 25%
+    - PA with best score, 15% and PA with lower score 10%
+    - Randomely picked 50% of the students will be asked to come for a code review session. 
+    - Each PA will be comprised of multiple problems (may have bonus and optional problems)  
+          
 3. Midterm Exam: 20%
-4. Final Exam: 25%
+4. Final Exam: 20%
 
 Grade ranges (using mathematical interval notation): A+: [97,100]; A: [93,97); A-: [90,93); B+: [87,90); B: [83,87); B-: [80,83); C+: [77,80); C: [73,77); C-: [70,77); D+: [67,70); D: [63,67); D-: [60,63); F: [0,60).  
 
