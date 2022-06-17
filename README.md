@@ -69,44 +69,44 @@ We will be using a merge of these two textbooks from zybooks for reading assignm
 | Date  | Topic                                         | Out | Due |
 |-------|-----------------------------------------------|-----|-----|
 **Week-1**|-----------------------------------------------|-----|-----|
-| 6/21  | Introduction                                  | RA1 |     |
+| 6/21  | Introduction                                  |      |     |
 | 6/22  | Algorithm efficiency                          |     |     |
 | 6/23  | Growth of functions and complexity, O-notation|     |     |
 **Week-2**|-----------------------------------------------|-----|-----|
-| 6/28  | Graph introduction & representation           |     |  |
-| 6/29 | Breadth-first search                           | RA2 |     |  
-| 6/30 | Depth-first search                             | HW1 | RA1 |
+| 6/28  | Graph introduction & representation           |  RA1  |  |
+| 6/29 | Breadth-first search                           |  |     |  
+| 6/30 | Depth-first search                             |  |  |
 **Week-3**|-----------------------------------------------|-----|-----|
-| 7/5 | Directed graphs, Topological sort               |     |     |
-| 7/6 | Hash tables, Hashmaps                           |     | RA2 |
-| 7/7 |  Hash functions                                 | RA3 |     |
+| 7/5 | Directed graphs, Topological sort               |  RA2   | RA1    |
+| 7/6 | Hash tables, Hashmaps                           |     |  |
+| 7/7 |  Hash functions                                 |  |     |
 **Week-4**|-----------------------------------------------|-----|-----|
-| 7/12 | Analysis of Hashing                            |     | HW1 |
-| 7/13  | Universal Hashing, Perfect Hashing            | PA1 |     |
-| 7/14  | Heaps, Heaps using arrays                     | PA1 |     |
+| 7/12 | Analysis of Hashing                            |  RA3   | RA2 |
+| 7/13  | Universal Hashing, Perfect Hashing            |  |     |
+| 7/14  | Heaps, Heaps using arrays                     |  |     |
 **Week-5**|-----------------------------------------------|-----|-----|
-| 7/19  | Priority queue                                |     |     |
-| 7/20 | Heapsort                                       |     | RA3 |
-| 7/21 | PQ-sort, selection-sort, and insertion-sort    | RA4 |     |
+| 7/19  | Priority queue                                | RA4     | RA3    |
+| 7/20 | Heapsort                                       |     |  |
+| 7/21 | PQ-sort, selection-sort, and insertion-sort    | |     |
 **Week-6**|-----------------------------------------------|-----|-----|
 | 7/26 | MIDTERM                                        |     |     |
-| 7/27 | Weighted Graphs, Algorithm: Dijkstra's shortest path |     | RA4 |
-| 7/28 | Kruskal algorithm                              | RA5 |     |
+| 7/27 | Weighted Graphs, Algorithm: Dijkstra's shortest path |     ||
+| 7/28 | Kruskal algorithm                              | |     |
 **Week-7**|-----------------------------------------------|-----|-----|
-| 8/2  | Prim's algorithm                               |     |     |
-| 8/3  | Union Find Data Structure I                    |     | RA5 |
-| 8/4  | Union Find Data Structure II                   | RA6 |     |
+| 8/2  | Prim's algorithm                               |  RA5    |   RA4    |
+| 8/3  | Union Find Data Structure I                    |     |  |
+| 8/4  | Union Find Data Structure II                   | |     |
 **Week-8**|-----------------------------------------------|-----|-----|
-| 8/9  | Amortized Analysis I                           |     |     |
-| 8/10  | Amortized Analysis II                         |     | RA6 |
-| 8/11  | Binary search trees I                         | RA7 |     |
+| 8/9  | Amortized Analysis I                           |  RA6    |  RA5   |
+| 8/10  | Amortized Analysis II                         |     |  |
+| 8/11  | Binary search trees I                         |  |     |
 **Week-9**|-----------------------------------------------|-----|-----|
-| 8/16  | Binary search trees II                        |     |     |
+| 8/16  | Binary search trees II                        | RA7    |  RA6   |
 | 8/17 | Balanced Search Trees                          |     |     |
 | 8/18 | AVL rotations                                  |     |     |
 **Week-10**|-----------------------------------------------|-----|-----|
-| 8/23 | AVL insertions, AVL removals                   |     |     |
-| 8/24 | Problem Solving                                |     | RA7 |
+| 8/23 | AVL insertions, AVL removals                   |     |  RA7   |
+| 8/24 | Problem Solving                                |     |     |
 | 8/25 | Final                                          |     |    |
 
 
