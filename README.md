@@ -50,45 +50,45 @@ It is important to understand the implementation scope of the algorithms rather 
 | Date  | Topic                                         | Out | Due |
 |-------|-----------------------------------------------|-----|-----|
 **Week-1**|**Introduction and Algorithm Efficiency**|-----|-----|
-| 6/21  | Introduction                                  |      |     |
+| 6/21  | Introduction                                  | RA1      |     |
 | 6/22  | Growth of functions and complexity, O-notation                          |     |     |
-| 6/23  | Basic Data Structures|     |     |
+| 6/23  | Basic Data Structures|     |   RA1   |
 **Week-2**|**Graphs**|-----|-----|
-| 6/28 |  Graph introduction & representation, Breadth-first search         |  RA1  |  |
+| 6/28 |  Graph introduction & representation, Breadth-first search         | RA2   |  |
 | 6/29 |  Depth-first search                           |  |     |  
-| 6/30 |  Directed graphs, Topological sort                           |HW1 |  |
+| 6/30 |  Directed graphs, Topological sort                           |HW1 |RA2   |
 **Week-3**|**Hashing I**|-----|-----|
-| 7/5 | Hashing introduction, Hashmaps                 |  RA2   | RA1    |
+| 7/5 | Hashing introduction, Hashmaps                 |  RA3    |    |
 | 7/6 | Hash functions                          |    |  |
-| 7/7 | Analysis of hashing                                  | PA1  |     |
+| 7/7 | Analysis of hashing                                  | PA1  |  RA3     |
 **Week-4**|**Hashing II**|-----|-----|
-| 7/12 |  Universal hashing                         |  RA3   | RA2 |
+| 7/12 |  Universal hashing                         |  RA4   |  |
 | 7/13  | Perfect hashing            |  |     |
-| 7/14  | Cuckoo hashing                     |  |  HW1    | 
+| 7/14  | Cuckoo hashing                     |  |  HW1  RA4    | 
 **Week-5**|**Priority Queues and Heaps**|-----|-----|
-| 7/19  | Heaps, Heaps using arrays,                                 | RA4     | RA3    |
+| 7/19  | Heaps, Heaps using arrays,                                 | RA5     |   |
 | 7/20 | Priority queues                                        |      | |
-| 7/21 | Heapsort    | HW2  | PA1    |
+| 7/21 | Heapsort    | HW2  | PA1  RA5  |
 **Week-6**|**Shortest Paths**|-----|-----|
 | 7/26 | MIDTERM                                        |     |     |
-| 7/27 | Weighted graphs, Algorithm: Dijkstra's shortest path |     ||
-| 7/28 | The Bellman-Ford algorithm                            | |    |
+| 7/27 | Weighted graphs, Algorithm: Dijkstra's shortest path | RA6    ||
+| 7/28 | The Bellman-Ford algorithm                            | | RA6   |
 **Week-7**|**Shortest Path and MST**|-----|-----|
-| 8/2  |  Directed Acyclic Graph                           |  RA5    |   RA4    |
+| 8/2  |  Directed Acyclic Graph                           |  RA7    |      |
 | 8/3  | MST,  Kruskal algorithm                    |     |  |
-| 8/4  | Prim's algorithm                   |  PA2  |HW2|
+| 8/4  | Prim's algorithm                   |  PA2  |HW2 RA7|
 **Week-8**|**Union Find Data Structure and Amortized Analysis**|-----|-----|
-| 8/9  | Union-find and list-based implementation                          |  RA6    |  RA5   |
+| 8/9  | Union-find and list-based implementation                          |  RA8    |    |
 | 8/10  | Union-find and tree-based implementation                         |     |  |
-| 8/11  | Amortized analysis                        |  |     |
+| 8/11  | Amortized analysis                        |  |  RA8    |
 **Week-9**|**BST**|-----|-----|
-| 8/16  | Searches and updates                       | RA7    |  RA6   |
+| 8/16  | Searches and updates                       | RA9    |   |
 | 8/17 | Index-based searching                        |     |     |
-| 8/18 | Balanced BST                                  |     |  PA2   |
+| 8/18 | Balanced BST                                  |     |  RA9  |
 **Week-10**|**AVL Tress**|-----|-----|
-| 8/23 | Ranks and rotations                  |     |  RA7   |
-| 8/24 | AVL insertions, AVL removals                                |     |     |
-| 8/25 | Final                                          |     |    |
+| 8/23 | Ranks and rotations                  |   RA10    |  |
+| 8/24 | AVL insertions, AVL removals                                |     |  RA10     |
+| 8/25 | Final                                          |     |  |
 
 
 ## Grade Composition
