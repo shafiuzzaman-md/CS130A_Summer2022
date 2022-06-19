@@ -1,4 +1,4 @@
-# CS130A: Data Structures and Algorithms (Summer 2022)
+# CMPSC 130A: Data Structures and Algorithms I (Summer 2022)
 
 Instructor : Md Shafiuzzaman (mdshafiuzzaman@ucsb.edu), Please call me Shafi. 
 
@@ -11,12 +11,17 @@ Piazza: https://piazza.com/configure-classes/summer2022/cs130a
 
 ## Quick References
 
-- Teaching Assistant: TBA
+- Teaching Assistant: Boxun Xu (boxunxu@ucsb.edu)
+- Discussion Sections: F 10:00-10:50, 387 1011   
+- TA office hour: TBD
 - All course-related communication will be through piazza.
 - Submit your homework through gradescope (you will be added when class starts).  
 - Programming assignments will be on kattis. Create an account in kattis and your name on kattis should match with your name provided in Gold. 
-- Reading assignments will be in Algorithm Design and Applications from zybooks. Manage a subscription for this book. 
-
+- Reading assignments will be in Algorithm Design and Applications from zybooks. Manage a subscription for this book. Subscription details:
+    1. Sign in or create an account at learn.zybooks.com
+    2. Enter zyBook code: UCSBCMPSC130AShafiuzzamanSummer2022
+    3. Subscribe (A subscription is $58. Students may begin subscribing on Jun 08, 2022 and the cutoff to subscribe is Aug 27, 2022. Subscriptions will last until Sep 16, 2022)
+    4. Help center: https://zybooks.zendesk.com/hc/en-us/categories/360004050694-Students 
 ## Course description
 The study of data structures and their applications. Correctness proofs and techniques for the design of correct programs. Graph traversal techniques and their applications. Searching. Hashing and balanced trees. Analysis of sorting algorithms.
 
