@@ -49,45 +49,45 @@ It is important to understand the implementation scope of the algorithms rather 
 
 | Date  | Topic                                         | Out | Due |
 |-------|-----------------------------------------------|-----|-----|
-**Week-1**|-----------------------------------------------|-----|-----|
+**Week-1**|**Introduction and Algorithm Efficiency**|-----|-----|
 | 6/21  | Introduction                                  |      |     |
-| 6/22  | Algorithm efficiency                          |     |     |
-| 6/23  | Growth of functions and complexity, O-notation|     |     |
-**Week-2**|-----------------------------------------------|-----|-----|
-| 6/28  | Graph introduction & representation           |  RA1  |  |
-| 6/29 | Breadth-first search                           |  |     |  
-| 6/30 | Depth-first search                             |HW1 |  |
-**Week-3**|-----------------------------------------------|-----|-----|
-| 7/5 | Directed graphs, Topological sort               |  RA2   | RA1    |
-| 7/6 | Hash tables, Hashmaps                           |    |  |
-| 7/7 |  Hash functions                                 | PA1  |     |
-**Week-4**|-----------------------------------------------|-----|-----|
-| 7/12 | Analysis of Hashing                            |  RA3   | RA2 |
-| 7/13  | Universal Hashing, Perfect Hashing            |  |     |
-| 7/14  | Heaps, Heaps using arrays                     |  |  HW1    | 
-**Week-5**|-----------------------------------------------|-----|-----|
-| 7/19  | Priority queue                                | RA4     | RA3    |
-| 7/20 | Heapsort                                       |      | |
-| 7/21 | PQ-sort, selection-sort, and insertion-sort    | HW2  | PA1    |
-**Week-6**|-----------------------------------------------|-----|-----|
+| 6/22  | Growth of functions and complexity, O-notation                          |     |     |
+| 6/23  | Basic Data Structures|     |     |
+**Week-2**|**Graphs**|-----|-----|
+| 6/28 |  Graph introduction & representation, Breadth-first search         |  RA1  |  |
+| 6/29 |  Depth-first search                           |  |     |  
+| 6/30 |  Directed graphs, Topological sort                           |HW1 |  |
+**Week-3**|**Hashing I**|-----|-----|
+| 7/5 | Hashing introduction, Hashmaps                 |  RA2   | RA1    |
+| 7/6 | Hash functions                          |    |  |
+| 7/7 | Analysis of hashing                                  | PA1  |     |
+**Week-4**|**Hashing II**|-----|-----|
+| 7/12 |  Universal hashing                         |  RA3   | RA2 |
+| 7/13  | Perfect hashing            |  |     |
+| 7/14  | Cuckoo hashing                     |  |  HW1    | 
+**Week-5**|**Priority Queues and Heaps**|-----|-----|
+| 7/19  | Heaps, Heaps using arrays,                                 | RA4     | RA3    |
+| 7/20 | Priority queues                                        |      | |
+| 7/21 | Heapsort    | HW2  | PA1    |
+**Week-6**|**Shortest Paths**|-----|-----|
 | 7/26 | MIDTERM                                        |     |     |
-| 7/27 | Weighted Graphs, Algorithm: Dijkstra's shortest path |     ||
-| 7/28 | Kruskal algorithm                              | |    |
-**Week-7**|-----------------------------------------------|-----|-----|
-| 8/2  | Prim's algorithm                               |  RA5    |   RA4    |
-| 8/3  | Union Find Data Structure I                    |     |  |
-| 8/4  | Union Find Data Structure II                   |  PA2  |HW2|
-**Week-8**|-----------------------------------------------|-----|-----|
-| 8/9  | Amortized Analysis I                           |  RA6    |  RA5   |
-| 8/10  | Amortized Analysis II                         |     |  |
-| 8/11  | Binary search trees I                         |  |     |
-**Week-9**|-----------------------------------------------|-----|-----|
-| 8/16  | Binary search trees II                        | RA7    |  RA6   |
-| 8/17 | Balanced Search Trees                          |     |     |
-| 8/18 | AVL rotations                                  |     |  PA2   |
-**Week-10**|-----------------------------------------------|-----|-----|
-| 8/23 | AVL insertions, AVL removals                   |     |  RA7   |
-| 8/24 | Problem Solving                                |     |     |
+| 7/27 | Weighted graphs, Algorithm: Dijkstra's shortest path |     ||
+| 7/28 | The Bellman-Ford algorithm                            | |    |
+**Week-7**|**Shortest Path and MST**|-----|-----|
+| 8/2  |  Directed Acyclic Graph                           |  RA5    |   RA4    |
+| 8/3  | MST,  Kruskal algorithm                    |     |  |
+| 8/4  | Prim's algorithm                   |  PA2  |HW2|
+**Week-8**|**Union Find Data Structure and Amortized Analysis**|-----|-----|
+| 8/9  | Union-find and list-based implementation                          |  RA6    |  RA5   |
+| 8/10  | Union-find and tree-based implementation                         |     |  |
+| 8/11  | Amortized analysis                        |  |     |
+**Week-9**|**BST**|-----|-----|
+| 8/16  | Searches and updates                       | RA7    |  RA6   |
+| 8/17 | Index-based searching                        |     |     |
+| 8/18 | Balanced BST                                  |     |  PA2   |
+**Week-10**|**AVL Tress**|-----|-----|
+| 8/23 | Ranks and rotations                  |     |  RA7   |
+| 8/24 | AVL insertions, AVL removals                                |     |     |
 | 8/25 | Final                                          |     |    |
 
 
