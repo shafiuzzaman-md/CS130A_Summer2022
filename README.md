@@ -118,7 +118,7 @@ We will round final raw scores to the nearest whole number to compute your final
 
 
 ## Class Policy
-- After each reading assignment, submit the online quizzes included in zyBooks within the due date. The due dates are added in the zybooks. You will get atleast one week to complete the reading assignemts. Reding assignments will be pretty easy and will not consume much of your times. Please complete it on time, we cannot provide you any extesion for this since it may affect your learning curve. 
+- After each reading assignment, submit the online quizzes included in zyBooks within the due date. The due dates are added in the zybooks. Reding assignments will help to gather the basics of each of the topics. Please complete it on time, we cannot provide you any extesion for this since it may affect your learning curve. 
  
 - For homework and programming assignments, please submit your solution in Gradescope.  No late submissions are accepted (Due at 11:00 PM) since we need to provide you feedback before midterm and final.
  
