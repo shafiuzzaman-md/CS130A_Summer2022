@@ -98,8 +98,6 @@ It is important to understand the implementation scope of the algorithms rather 
 
 ## Grade Composition
 
-* Programming assignments will be comprised of multiple problems and students will be graded with the problem he receives the highest score. 
-
 1. zyBooks Reading Assignments (RA): 15% 
 
 2. Homeworks (HW): 20%
@@ -107,7 +105,7 @@ It is important to understand the implementation scope of the algorithms rather 
     2. Others, 8%
 
 3. Programming Assignments (PA): 25%
-    - PA with best score, 15% and PA with lower score 10%
+    - PA with best score 15% and others 10%
     - Randomely picked 50% of the students will be asked to come for a code review session. 
     - Each PA will be comprised of multiple problems (may have bonus and optional problems)  
           
