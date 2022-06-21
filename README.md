@@ -166,4 +166,6 @@ Please note that exam accommodations will only be granted after the DSP office r
 
 As we move through the course, some changes may be necessary to ensure a smoothly run class.  I reserve the right to alter the syllabus in a reasonable fashion, provided I give everyone at least 24 hours advance notice.   
 
+## Acknowledgements
 
+This course is higly motivated by the spring'22 course of Prof. Daniel Lokshtanov (https://sites.cs.ucsb.edu/~daniello/)
