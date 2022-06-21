@@ -6,7 +6,7 @@ Lecture Time: 2 pm-2:50 pm, TWR, 387 1011
 
 Office hour: 4:00pm-5:00pm, Fri, Zoom: https://ucsb.zoom.us/j/4512414633
 
-Piazza: https://piazza.com/configure-classes/summer2022/cs130a
+Piazza: https://piazza.com/class/l4gi953olv34oq
 
 
 ## Quick References
