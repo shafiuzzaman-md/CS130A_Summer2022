@@ -6,7 +6,7 @@ Lecture Time: 2 pm-2:50 pm, TWR, 387 1011
 
 Office hour: 4:00pm-5:00pm, Fri, Zoom: https://ucsb.zoom.us/j/4512414633
 
-Piazza: https://piazza.com/class/l4gi953olv34oq
+Piazza: piazza.com/ucsb/summer2022/cmpsc130a
 
 
 ## Quick References
