@@ -123,7 +123,7 @@ We will round final raw scores to the nearest whole number to compute your final
 - For homework assignments, please submit your solution in Gradescope.  No late submissions are accepted (Due at 11:00 PM) since we need to provide you feedback before midterm and final.
  
 - You may discuss homework problems with your classmates, but please write down your own solution and acknowledge your collaborators. 
-- 
+
 - For homeworks and programming assignments, you must understand and be able to explain every single line that you hand in. Not being able to explain handed in work counts as cheating. You may be asked for code review session for programming assignments.
  
 - For homework problems and programming assignments you may not consult anyone other than fellow students, course instructors, or TA's regarding anything pertaining to particular homework problems. You are allowed to ask about general topics (greedy algorithms, solving recurrences) but nothing related to a particular problem (how do I solve *this* recurrence, how do I analyze *this* algorithm, etc). Of course, there are grey zones. Err on the side of caution.
