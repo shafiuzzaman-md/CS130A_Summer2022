@@ -16,7 +16,7 @@ Piazza: https://piazza.com/configure-classes/summer2022/cs130a
 - TA office hour: TBD
 - All course-related communication will be through piazza.
 - Submit your homework through gradescope (you will be added when class starts).  
-- Programming assignments will be on kattis. Create an account in kattis and your name on kattis should match with your name provided in Gold. 
+- Programming assignments will be on kattis. Please	remember to	*both*	make	an	account	on	UCSB.kattis	AND	register	for	the	course	[information	to	be	posted	on	Piazza].	Use	*exactly*	the	same	 name	on	Kattis	as	on	E-grades/Gold.
 - Reading assignments will be in Algorithm Design and Applications from zybooks. Manage a subscription for this book. Subscription details:
     1. Sign in or create an account at learn.zybooks.com
     2. Enter zyBook code: UCSBCMPSC130AShafiuzzamanSummer2022
