@@ -1,6 +1,6 @@
 # CMPSC 130A: Data Structures and Algorithms I (Summer 2022)
 
-Instructor : Md Shafiuzzaman (mdshafiuzzaman@ucsb.edu), Please call me Shafi. 
+Instructor: Md Shafiuzzaman (mdshafiuzzaman@ucsb.edu), Please call me Shafi. 
 
 Lecture Time: 2 pm-2:50 pm, TWR, 387 1011 
 
