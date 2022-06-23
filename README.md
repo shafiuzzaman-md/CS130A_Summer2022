@@ -57,9 +57,9 @@ It is important to understand the implementation scope of the algorithms rather 
 **Week-1**|**Introduction and Algorithm Efficiency**|-----|-----|
 | 6/21  | Introduction                                  | RA1      |     |
 | 6/22  | Growth of functions and complexity, O-notation                          |     |     |
-| 6/23  | Basic Data Structures|     |   RA1   |
+| 6/23  | Graph introduction & representation|     |   RA1   |
 **Week-2**|**Graphs**|-----|-----|
-| 6/28 |  Graph introduction & representation, Breadth-first search         | RA2, HW1   |  |
+| 6/28 |  Breadth-first search         | RA2, HW1   |  |
 | 6/29 |  Depth-first search                           |  |     |  
 | 6/30 |  Directed graphs, Topological sort                           | |RA2   |
 **Week-3**|**Hashing I**|-----|-----|
