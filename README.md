@@ -64,7 +64,7 @@ It is important to understand the implementation scope of the algorithms rather 
 | 6/30 |  Directed graphs, Topological sort                           | |RA2   |
 **Week-3**|**Hashing I**|-----|-----|
 | 7/5 | Hashing introduction, Hash collision               |  RA3    |    |
-| 7/6 | Hash functions                          |    |  |
+| 7/6 | Handling collisions                          |    |  |
 | 7/7 | Analysis of hashing                                  |   |  RA3, HW1     |
 **Week-4**|**Hashing II**|-----|-----|
 | 7/12 |  Universal hashing                         |  RA4, PA1   |  |
