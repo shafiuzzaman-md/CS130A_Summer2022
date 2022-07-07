@@ -13,7 +13,6 @@ Piazza: https://piazza.com/ucsb/summer2022/cmpsc130a
 
 - Teaching Assistant: Boxun Xu (boxunxu@ucsb.edu)
 - Discussion Sections: F 10:00-10:50, 387 1011   
-- TA office hour: TBD
 - All course-related communication will be through piazza.
 - Submit your homework through gradescope (you will be added when class starts).  
 - Programming assignments will be on kattis. Please	remember to	*both*	make	an	account	on	UCSB.kattis	AND	register	for	the	course	[information	to	be	posted	on	Piazza].	Use	*exactly*	the	same	 name	on	Kattis	as	on	E-grades/Gold.
@@ -65,11 +64,11 @@ It is important to understand the implementation scope of the algorithms rather 
 **Week-3**|**Hashing I**|-----|-----|
 | 7/5 | Hashing introduction, Pegion hole principle, Birthday paradox               |  RA3    |    |
 | 7/6 | Handling collisions: Balls in bins formula, separate chaining                        |    |  |
-| 7/7 | Analysis of hashing                                  |   |  RA3, HW1     |
+| 7/7 | Handling collisions: Separate chaining in random setting, probing                                   |   |  RA3, HW1     |
 **Week-4**|**Hashing II**|-----|-----|
-| 7/12 |  Universal hashing                         |  RA4, PA1   |  |
-| 7/13  | Perfect hashing            |  |     |
-| 7/14  | Cuckoo hashing                     |  |    RA4    | 
+| 7/12 | Hash function constructions                        |  RA4, PA1   |  |
+| 7/13  | Universal hashing            |  |     |
+| 7/14  | Perfect hashing                      |  |    RA4    | 
 **Week-5**|**Priority Queues and Heaps**|-----|-----|
 | 7/19  | Heaps, Heaps using arrays,                                 | RA5     |   |
 | 7/20 | Priority queues                                        |      | |
