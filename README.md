@@ -74,7 +74,7 @@ It is important to understand the implementation scope of the algorithms rather 
 | 7/20 | Priority queues                                        |      | |
 | 7/21 | Heapsort    |   | RA5, PA1    |
 **Week-6**|**Shortest Paths**|-----|-----|
-| 7/26 | MIDTERM                                        | PA2,RA6    |     |
+| 7/26 | MIDTERM                                        | PA2, RA6    |     |
 | 7/27 | Weighted graphs, Algorithm: Dijkstra's shortest path |     ||
 | 7/28 | The Bellman-Ford algorithm                            | | RA6   |
 **Week-7**|**Shortest Path and MST**|-----|-----|
