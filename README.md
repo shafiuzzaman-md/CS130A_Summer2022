@@ -66,11 +66,11 @@ It is important to understand the implementation scope of the algorithms rather 
 | 7/6 | Handling collisions: Balls in bins formula, separate chaining                        |    |  |
 | 7/7 | Handling collisions: Separate chaining in random setting, probing                                   |   |  RA3, HW1     |
 **Week-4**|**Hashing II**|-----|-----|
-| 7/12 | Hash function constructions                        |  RA4, PA1   |  |
+| 7/12 | Hash function constructions, Merkle-Damgard Hash Function                       |  RA4, PA1   |  |
 | 7/13  | Universal hashing            |  |     |
 | 7/14  | Perfect hashing                      |  |    RA4    | 
 **Week-5**|**Priority Queues and Heaps**|-----|-----|
-| 7/19  | Heaps, Heaps using arrays,                                 | RA5     |   |
+| 7/19  | Heaps, Heaps using arrays                                 | RA5     |   |
 | 7/20 | Priority queues                                        |      | |
 | 7/21 | Heapsort    |   | RA5, PA1    |
 **Week-6**|**Shortest Paths**|-----|-----|
