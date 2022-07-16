@@ -11,7 +11,7 @@ Piazza: https://piazza.com/ucsb/summer2022/cmpsc130a
 
 ## Quick References
 
-- Teaching Assistant: Boxun Xu (boxunxu@ucsb.edu)
+- Teaching Assistant: Boxun Xu (boxunxu@ucsb.edu), Office hour 9:00-10:00 AM, Mon
 - Discussion Sections: F 10:00-10:50, 387 1011   
 - All course-related communication will be through piazza.
 - Submit your homework through gradescope (you will be added when class starts).  
