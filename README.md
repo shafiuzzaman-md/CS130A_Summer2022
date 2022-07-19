@@ -70,7 +70,7 @@ It is important to understand the implementation scope of the algorithms rather 
 | 7/13  | Universal hashing            |  |     |
 | 7/14  | Perfect hashing                      |  |    RA4    | 
 **Week-5**|**Priority Queues and Heaps**|-----|-----|
-| 7/19  | Heaps, Heaps using arrays                                 | RA5     |   |
+| 7/19  | Heaps, Time Complexity of building a heap, Applications of Heaps                                | RA5     |   |
 | 7/20 | Priority queues                                        |      | |
 | 7/21 | Heapsort    |   | RA5, PA1    |
 **Week-6**|**Shortest Paths**|-----|-----|
