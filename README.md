@@ -77,9 +77,9 @@ It is important to understand the implementation scope of the algorithms rather 
 | 7/26 | MIDTERM                                        | PA2, RA6    |     |
 | 7/27 | Weighted graphs, Algorithm: Dijkstra's shortest path |     ||
 | 7/28 | The Bellman-Ford algorithm                            | | RA6   |
-**Week-7**|**Union Find Data Structure and MST**|-----|-----|
+**Week-7**|**MST and Union Find Data Structure *|-----|-----|
 | 8/2  |  MST,  Kruskal algorithm, Union-find and list-based implementation                            |  RA7    |      |
-| 8/3  |  Union-find and tree-based implementation                   |     |  |
+| 8/3  |  Union By Rank and Path Compression                   |     |  |
 | 8/4  | Prim's algorithm                   |    |RA7, PA2|
 **Week-8**|**Union Find Data Structure and Amortized Analysis**|-----|-----|
 | 8/9  | Union-find and list-based implementation                          |  RA8, HW2    |    |
