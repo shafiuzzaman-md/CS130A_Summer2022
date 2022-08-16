@@ -85,7 +85,7 @@ It is important to understand the implementation scope of the algorithms rather 
 | 8/10  | Amortized analysis                          |     |  |
 | 8/11  | Amortized analysis (Cont.)                       |  |  RA8    |
 **Week-9**|**BST**|-----|-----|
-| 8/16  | Searches and updates                       | RA9    |   |
+| 8/16  | Search, Insert, Delete, Self-balancing BST                      | RA9    |   |
 | 8/17 | Index-based searching                        |     |     |
 | 8/18 | Balanced BST                                  |     |  RA9, HW2  |
 **Week-10**|**AVL Tress**|-----|-----|
