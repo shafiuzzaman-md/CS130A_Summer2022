@@ -85,11 +85,11 @@ It is important to understand the implementation scope of the algorithms rather 
 | 8/10  | Amortized analysis                          |     |  |
 | 8/11  | Amortized analysis (Cont.)                       |  |  RA8    |
 **Week-9**|**BST I**|-----|-----|
-| 8/16  | Search, Insert, Delete, Self-balancing BST                      | RA9    |   |
-| 8/17 | AVL insertions, AVL removals                       |     |     |
-| 8/18 | Balanced BST                                  |     |  RA9, HW2  |
+| 8/16  | BST Search, Insert, Delete, Self-balancing BST                      | RA9    |   |
+| 8/17 | AVL Tree                      |     |     |
+| 8/18 | Red Black Tree                                  |     |  RA9, HW2  |
 **Week-10**|**BST II**|-----|-----|
-| 8/23 | Red Black Tree                  |   RA10    |  |
+| 8/23 | Splay Tree                 |   RA10    |  |
 | 8/24 | Problem Solving                               |     |  RA10     |
 | 8/25 | Final                                          |     |  |
 
