@@ -90,7 +90,7 @@ It is important to understand the implementation scope of the algorithms rather 
 | 8/18 | Red Black Tree                                  |     |  RA9, HW2  |
 **Week-10**|**BST II**|-----|-----|
 | 8/23 | Splay Tree                 |   RA10    |  |
-| 8/24 | Problem Solving                               |     |  RA10     |
+| 8/24 | Review and Problem Solving                               |     |  RA10     |
 | 8/25 | Final                                          |     |  |
 
 
